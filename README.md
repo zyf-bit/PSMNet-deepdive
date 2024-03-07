@@ -12,3 +12,5 @@ distance.py：利用视差图生成深度图，深度图的灰度值就是真实
 mouse_gray.py：展示灰度图，输出鼠标停留的像素的灰度值
 
 velodyne_vis.py：读取点云文件，生成点云。shift+鼠标左键可以输出该点在点云中的坐标
+
+![image](https://github.com/Haibara567/PSMNet/assets/94728547/1db0d624-815e-4850-bc52-5ce8bba700c4)
